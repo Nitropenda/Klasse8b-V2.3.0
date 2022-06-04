@@ -19,7 +19,7 @@ Download-Link (Mediafire)
 
 [Klasse8b-v2.3.0](https://www.mediafire.com/file/yg1d6gh978rd0xu/klasse8b_v2.3.0.zip/file)
 
-# Wie installiere ich das Texture-Pack?
+### Wie installiere ich das Texture-Pack?
 
 1. Gebe in der Suchleiste deines PCs den Speicherpfad "%appdata%" und drücke Enter.
 2. Navigiere in dem Dateiordner zu ".minecraft"
