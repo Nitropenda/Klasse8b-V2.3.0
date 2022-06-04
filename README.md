@@ -10,9 +10,11 @@ Changelog:
 -added  8 new randomized Axelotls     
 -added "Red Enderman"      
 -added "Fool"        
--added "mistery item"      
+-added "mistery item"     
+-added custom title screen ui
+-added "blade sword
 
-Download-Link:
+Download-Link (Mediafire)
 
 [Klasse8b-v2.3.0](https://)
 
