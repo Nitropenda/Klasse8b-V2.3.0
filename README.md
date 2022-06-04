@@ -2,15 +2,16 @@
 
 Changelog:
 
+-updated "Fabianische Armor"
 -added "Nitropenda's Armor"     
 -added "Teletibi's Totem"       
 -added "Hibbit's Armor"     
 -added "Hibbit's Sword"       
 -added "White Armor"      
--added  8 new randomized Axelotls     
+-added  randomized Axelotls     
 -added "Red Enderman"      
 -added "Fool"        
--added "mistery item"     
+-added "misterious item"     
 -added custom title screen ui
 -added "blade sword
 
