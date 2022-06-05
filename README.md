@@ -2,7 +2,7 @@
                     
 ## Changelog               
                     
-Armor:                  
+### Armor:                  
                      
 -added "Der_Hibbit's Helmet" (pattern: "Der_Hibbit's Helmet") (netherite)                        
 -added "Der_Hibbit's Chestplate" (pattern: "Der_Hibbit's Chestplate") (netherite)             
@@ -24,7 +24,7 @@ Armor:
 -updated texture "Lord_Hedgehodge's White Leggings" (pattern: "White Leggings") (netherite)                     
 -updated texture "Lord_Hedgehodge's White Boots" (pattern: "White Boots") (netherite)                     
                      
-Items:                     
+### Item:                     
                      
 -updated texture "Der_Hibbit's Zahnstocher" (pattern: "Megazahnstocher") (netherite)                     
 -added "Blade Sword" (pattern: "Blade") (netherite)                     
@@ -33,7 +33,7 @@ Items:
 -replaced texture "Holzmann70's Totem" (pattern: "Holzmann70's Totem")                     
 -replaced texture "Holzmann70's Piercer" (ipattern: "Piercer") (netherite)                     
                      
-Entity:                     
+### Entity:                     
                      
 -added "Red Enderman" (rarity 0.1% [1 in 10000])                     
 -added "axelotl_light_blue"                     
@@ -45,18 +45,18 @@ Entity:
 -added "axelotl_green"                     
 -added "axelotl_red"                     
                      
-UI:                     
+### UI:                     
                      
 -added "custom UI-Title-Secreen"                     
 -added "custom UI-Splash-Text"                     
                      
                      
-(ipattern="exact name")                     
+(pattern="exact name")                     
 (ipattern="non exact name")                     
                      
-Bitte benachrichtige mich, wenn du einen Bug gefunden hast, wenn ich etwas vergessen habe, oder wenn du möchtest, dass eine weitere Texture hinzugefügt werden soll.                     
+Bitte benachrichtige mich, wenn du einen Bug gefunden hast, wenn ich etwas vergessen habe, oder wenn du möchtest, dass eine weitere Textur hinzugefügt werden soll.                     
                      
-##Download-Link (Mediafire)                     
+## Download-Link (Mediafire)                     
                      
 [Klasse8b-v2.3.0](https://www.mediafire.com/file/7lvlwte03u33cir/klasse8b_v2.3.0.zip/file)                           
                               
