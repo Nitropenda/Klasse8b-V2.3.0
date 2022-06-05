@@ -47,8 +47,8 @@ Entity:
                      
 UI:                     
                      
--added "custom ui-title-secreen"                     
--added "custom ui-splash-text"                     
+-added "custom UI-Title-Secreen"                     
+-added "custom UI-Splash-Text"                     
                      
                      
 (ipattern="exact name")                     
@@ -67,4 +67,4 @@ Bitte benachrichtige mich, wenn du einen Bug gefunden hast, wenn ich etwas verge
 3. Finde den Order "resource-packs" und öffne ihn.                       
 4. Lade das Texture Pack herrunter und ziehe die Zip-Datei in den Ordner                             
 5. Öffne Minecraft und gehe zu "Options" , dann "Texture-Packs"                     
-6. Nun kannst du das Texture-Pack mit einem Linksklick aktivieren!            
+6. Nun kannst du das Texture-Pack mit einem Linksklick aktivieren!                     
