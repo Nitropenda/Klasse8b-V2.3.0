@@ -63,8 +63,8 @@ Bitte benachrichtige mich, wenn du einen Bug gefunden hast, wenn ich etwas verge
 ## Wie installiere ich das Texture-Pack?                     
                      
 1. Gebe in der Suchleiste deines PCs den Speicherpfad "%appdata%" ein und drücke Enter.                     
-2. Navigiere in dem Dateiordner zu ".minecraft"                     
+2. Navigiere in dem Dateiordner zu ".minecraft" und doppelklicke diesen.                         
 3. Finde den Order "resource-packs" und öffne ihn.                       
-4. Lade das Texture Pack herrunter und ziehe die Zip-Datei in den Ordner                             
-5. Öffne Minecraft und gehe zu "Options" , dann "Texture-Packs"                     
-6. Nun kannst du das Texture-Pack mit einem Linksklick aktivieren!                     
+4. Lade das Texture Pack herrunter und ziehe die Zip-Datei in den Ordner.                                
+5. Öffne Minecraft und gehe zu "Options" , dann "Texture-Packs".                     
+6. Jetzt brauchst du das Texture Pack nur noch zu aktivieren und auf den Server zu joinen!         
